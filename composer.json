@@ -1,5 +1,5 @@
 {
-    "name": "dakota/cake-excel",
+    "name": "yardz/cake-excel",
     "type": "cakephp-plugin",
     "description": "CakePHP excel generator",
     "keywords": [
@@ -8,7 +8,7 @@
         "excel",
         "phpexcel"
     ],
-    "homepage": "https://github.com/dakota/CakeExcel",
+    "homepage": "https://github.com/yardz/CakeExcel",
     "license": "MIT",
     "authors": [
         {
@@ -25,7 +25,7 @@
     "require": {
         "php": ">=5.6.0",
         "cakephp/cakephp": "^3.6",
-        "phpoffice/phpspreadsheet": "^1.2"
+        "phpoffice/phpspreadsheet": "^1.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.7.14|^6.0"
